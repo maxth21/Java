@@ -32,5 +32,4 @@ Beräknar och skriver ut minsta, största och genomsnittliga temperaturer.
 
 Hur man kör programmen:
 
-Kompilera Java-filerna: javac Lab3/*.java
-Kör testprogrammet för talserier: java Lab3.NumberSequenceTest
+Kompilera Java-filerna: "javac Lab3/*.java" sedan Kör testprogrammet för talserier: "java Lab3.NumberSequenceTest"
